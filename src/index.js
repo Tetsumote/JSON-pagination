@@ -8,7 +8,7 @@ let tekst = `Litwo! Ojczyzno moja! Ty jesteś jak zdrowie. Ile cię stracił. Dz
 //Create array seperate by .
 let arrTekst = tekst.split(".");
 
-//Define limit of characters
+//Define limit of character
 let limit = 400;
 
 //Start point for character counter
